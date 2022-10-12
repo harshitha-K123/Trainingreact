@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trainingreact/static/css/main.073c9b0a.css",
+    "main.js": "/Trainingreact/static/js/main.6f12cdbc.js",
+    "static/js/787.0cb4eaa9.chunk.js": "/Trainingreact/static/js/787.0cb4eaa9.chunk.js",
+    "index.html": "/Trainingreact/index.html",
+    "main.073c9b0a.css.map": "/Trainingreact/static/css/main.073c9b0a.css.map",
+    "main.6f12cdbc.js.map": "/Trainingreact/static/js/main.6f12cdbc.js.map",
+    "787.0cb4eaa9.chunk.js.map": "/Trainingreact/static/js/787.0cb4eaa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f12cdbc.js"
+  ]
+}
